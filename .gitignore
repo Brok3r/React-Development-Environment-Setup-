@@ -1,3 +1,6 @@
+# npm logs
+npm-debug.log
+
 # Dependency directory
 node_modules
 
@@ -6,3 +9,6 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# IDE 
+.idea/

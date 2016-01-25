@@ -1,0 +1,23 @@
+{
+  "name": "react-development-environment-setup",
+  "version": "1.0.0",
+  "description": "Development Environment Setup for React.js with babel and webpack. ",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brok3r/React-Development-Environment-Setup-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Brok3r/React-Development-Environment-Setup-/issues"
+  },
+  "homepage": "https://github.com/Brok3r/React-Development-Environment-Setup-#readme",
+  "dependencies": {
+    "react": "^0.14.6",
+    "react-dom": "^0.14.6"
+  }
+}
