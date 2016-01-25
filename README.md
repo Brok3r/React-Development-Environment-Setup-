@@ -11,7 +11,8 @@ npm install react react-dom --save // para guardar en las dependencias
 // instalamos globalmente ( si no está ya instalado)
 $ sudo npm install babel webpack webpack-dev-server -g
 
-npm install babel-loader babel-core babel-preset-es2015 babel-preset-react
+// instala las dependencias
+npm install 
 
 
 // app.js capitalizado poruqe es el primer componente react. main.js es la entrada de la aplicación 
